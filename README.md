@@ -1,7 +1,8 @@
 # coffee-shop-sales
 # Sales Analysis Dashboard 📊
 
-https://github.com/khushi26shah/coffee-shop-sales/blob/main/Coffee%20shop%20dashboard.png
+![Sales Analysis Dashboard](Coffee shop dashboard.png)
+
 ##  Project Overview
 
 This project presents a Sales Analysis Dashboard created using a dataset sourced from Kaggle. The dashboard helps analyze revenue trends, product performance, and customer ordering behavior across different occasions, cities, and time periods.
