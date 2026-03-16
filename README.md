@@ -1,7 +1,7 @@
 # coffee-shop-sales
 # Sales Analysis Dashboard 📊
 
-![Sales Analysis Dashboard](Coffee shop dashboard.png)
+![coffee-shop-sales](Coffee shop dashboard.png)
 
 ##  Project Overview
 
